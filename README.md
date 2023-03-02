@@ -25,6 +25,8 @@ This project utilizes the React-player library to play video data from multiple 
 ## Release Note
 
 - 2023/03/02: Initialized project source code.
+- 2023/03/02: Added .gitignore file.
+- 2023/03/02: Added license.md / react-player.md file.
 
 #### How To Setup Environment
 
